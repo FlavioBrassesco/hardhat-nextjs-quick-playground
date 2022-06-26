@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "hardhat": "^2.9.9",
     "next": "12.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "chai": "^4.3.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6"
   }
